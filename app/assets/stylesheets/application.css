@@ -1,0 +1,15 @@
+
+div{ position: relative;}
+#main { position: absolute;}
+.hr {width:800px; left:0; margin-left:auto; right:0; margin-right:auto;}
+.vr {top:100px; margin-top:auto; margin-bottom:auto;}
+
+
+div { position:relative;}
+#cm { position: absolute;}
+.hc {width:800px; left:0; margin-left:auto; right:0; margin-right:auto;}
+.vc {top:100px; margin-top:auto; margin-bottom:auto;}
+
+#pen a{color: blue;}
+#pine a{color:green;}
+#nike a{color:red;}
